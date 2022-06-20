@@ -102,4 +102,6 @@ theme: jekyll-theme-minimal
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repository: https://github.com/longma1996/longma1996.github.io
+  branch: master
